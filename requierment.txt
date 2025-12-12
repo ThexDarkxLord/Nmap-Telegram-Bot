@@ -1,0 +1,6 @@
+telebot
+requests
+python-whois
+builtwith
+tldextract
+beautifulsoup4
