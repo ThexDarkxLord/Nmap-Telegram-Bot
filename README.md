@@ -80,6 +80,6 @@ This tool is for educational purposes ONLY.
 Unauthorized scanning of systems is illegal.
 Use only on systems you own or have permission to scan.
 
-🖤 Made by The Dark Lord
+🖤 Made by Wajd Dev
 Crafted with intelligence, power, and a touch of darkness.
 Follow for more tools, bots, and cyber magic.
